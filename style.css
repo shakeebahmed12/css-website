@@ -1,0 +1,55 @@
+.main{
+    text-align: center;
+    background-color: rgb(8, 8, 105);
+    height: 200px;
+    color: white;
+}
+
+.define{
+    margin: 0;
+    padding: 0;
+    list-style:none;
+    line-height: 36px;
+    height: 36px;
+    background-color: rgb(1, 1, 46);
+    font-size: 15px;
+}
+
+.first {
+    float: left;
+    border-right: 1px solid;
+}
+
+a{
+    display: block;
+    padding: 0 50px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover,#second a{
+    background-color: rgb(62, 62, 252);
+}
+
+table {
+    width:50%;
+    background-color: rgb(8, 8, 105);
+    border: 2;
+    border-color: white
+
+}
+
+table a{
+    color: azure;
+    text-decoration: none;
+}
+ table a:hover{
+    background-color: rgb(91, 91, 209)
+}
+
+
+.heading{
+         text-align: center;
+         background-color: plum;
+}
+
